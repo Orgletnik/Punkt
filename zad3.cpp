@@ -83,7 +83,5 @@ int main(void)
     p2.symetria0();
     std::cout << p2 << '\n';
     
-    p1.obroc(90);
-    std::cout << p1 << '\n';
     return 1;
 }
